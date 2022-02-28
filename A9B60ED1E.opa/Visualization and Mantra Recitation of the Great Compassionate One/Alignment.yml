@@ -1,0 +1,22 @@
+segment_sources:
+  P6562A267:
+    type: origin_type
+    relation: translation
+    language: en
+  P924700E0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dadcaaedb8cf41da8008350d1175bbde:
+    P6562A267: 0706099a96bc45588e330be8080d4728
+    P924700E0: a940ef2d47434157bb645f31bc9cf5ec
+  998290ceed6b4337a57eac1cf373e550:
+    P6562A267: 44a04aeff9cb4f08b1e55387555b6e3d
+    P924700E0: 296c409ed3fc4392a80903a29523041f
+  fe927cc9a07143429b9c9f9bfe5ba1e3:
+    P6562A267: 5e676e72a638467797adbc2bcba72d96
+    P924700E0: 3df25c0a990749a0bd763281bc773928
+  0b66743d60d9437dbec7b8bc29c5b06f:
+    P6562A267: b6a78ec59f97442bb73f9caf118dfba1
+    P924700E0: 742dba0e3a674d37b69cd776d97dbc58

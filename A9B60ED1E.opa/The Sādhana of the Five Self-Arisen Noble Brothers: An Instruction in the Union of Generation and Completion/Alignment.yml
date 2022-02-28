@@ -1,0 +1,16 @@
+segment_sources:
+  P6562A267:
+    type: origin_type
+    relation: translation
+    language: en
+  P924700E0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7d00f505822e4083b187b8b90fb2cd41:
+    P6562A267: f84d1c8c4e3341f8a3749e735efdb253
+    P924700E0: cb43bb200150408cba6385a642e13cd0
+  80e6513b07b543fea5b795d5017a5e44:
+    P6562A267: cd21a06cad7647a18f2a0e580ceb8a8e
+    P924700E0: f2072b81661f4ea0927e83c3d75d473f
